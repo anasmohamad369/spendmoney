@@ -24,7 +24,7 @@ export const GameDisplay = () => {
 
 <>
 <div className="budgetdisplay">
-<h1> In your Bank Account: {budget-spentAmount}</h1>
+<h1> ₹ {budget-spentAmount}</h1>
 
 </div>
     <div className='list' >

@@ -21,7 +21,10 @@
     height: 200px;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
+    /* position: absolute; */
+    object-fit: contain;
 }
+
 
 .details {
     display: flex;
@@ -64,4 +67,12 @@
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15); 
     text-align: center;
     /* background-color: rgb(106, 183, 183); */
+}
+
+@media screen and (max-width:760px) {
+    .item {
+        width: 100vw;
+    }
+
+
 }

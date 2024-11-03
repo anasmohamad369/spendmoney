@@ -6,7 +6,8 @@ export const Head = () => {
         <div className="head">
             <img src='./public/amabani.webp'/> 
             <h1>Spends Ambani money</h1>
-            
+
+      
         </div>
     </>
   )
