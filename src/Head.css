@@ -1,0 +1,15 @@
+.head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+    background-color: white;
+    width: 80vw;
+    margin: 10px;
+    box-shadow: 0px 0px 5px 0px rgba(18, 17, 17, 0.879);
+    flex-direction: column;
+}
+.head img{
+    width: 200px;
+   border-radius: 50%;
+}
