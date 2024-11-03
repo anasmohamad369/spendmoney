@@ -34,7 +34,7 @@ import space  from './space.jpg'
 import privat  from './private.jpg'
 import furs from './furustic.jpg'
 import art from './art.jpg'
-
+import ambani from './amabani.webp'
 
 
 
@@ -46,8 +46,8 @@ import remove_icon_red from './remove_icon_red.png'
 
 export const assets={
   add_icon_green,
-  remove_icon_red
-
+  remove_icon_red,
+    ambani
 
 }
 export const item_list = [
